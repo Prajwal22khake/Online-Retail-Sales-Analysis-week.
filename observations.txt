@@ -1,0 +1,23 @@
+ 1.Highest Revenue-Generating Product
+
+The product with the highest revenue contribution was PAPER CRAFT & LITTLE BIRDIE. This indicates strong revenue generation from this particular product
+
+3. Monthly Sales Trends
+
+The highest sales were recorded in November. This may indicate seasonal demand or increased customer purchasing activity during that period.
+
+4. Customer Purchase Behaviour
+
+The analysis shows whether customer purchases are evenly distributed or concentrated among a small group of customers. High revenue concentration can indicate dependence on high-value customers.
+
+5. Repeat Customer Contribution
+
+Repeat customers contributed 17.3% of identified-customer revenue. This helps measure the importance of customer retention to the business.
+
+6. Regional Sales Performance
+
+United State recorded the highest number of orders. This identifies an important market for the retail business.
+
+7. High-Value Orders
+
+The analysis identified United State as having the highest number of high-value orders. This helps the business understand where larger purchases are concentrated.
